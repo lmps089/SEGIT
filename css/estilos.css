@@ -1,0 +1,21 @@
+@import url("https://fonts.googleapis.com/css?family=Lato");
+html,
+body {
+  height: 100%;
+  margin: 0;
+  font-family: Lato, sans-serif;
+  background: url(../images/img.jpg)no-repeat center center fixed; 
+}
+header{
+background: #1c530b;  /* fallback for old browsers */
+
+}
+
+.card-header{
+background: #1c530b;  /* fallback for old browsers */
+color: #FFFFFF;
+}
+
+::placeholder { /* Chrome, Firefox, Opera, Safari 10.1+ */
+ font-size: 13px;
+}
